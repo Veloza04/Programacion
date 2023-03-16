@@ -1,0 +1,15 @@
+C:\Users\ACER\Documents\Programacion\Programacion\suma\suma\bin\Debug\net6.0\Suma.exe
+C:\Users\ACER\Documents\Programacion\Programacion\suma\suma\bin\Debug\net6.0\Suma.deps.json
+C:\Users\ACER\Documents\Programacion\Programacion\suma\suma\bin\Debug\net6.0\Suma.runtimeconfig.json
+C:\Users\ACER\Documents\Programacion\Programacion\suma\suma\bin\Debug\net6.0\Suma.dll
+C:\Users\ACER\Documents\Programacion\Programacion\suma\suma\bin\Debug\net6.0\Suma.pdb
+C:\Users\ACER\Documents\Programacion\Programacion\suma\suma\obj\Debug\net6.0\Suma.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\Programacion\Programacion\suma\suma\obj\Debug\net6.0\Suma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\Programacion\Programacion\suma\suma\obj\Debug\net6.0\Suma.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\Programacion\Programacion\suma\suma\obj\Debug\net6.0\Suma.AssemblyInfo.cs
+C:\Users\ACER\Documents\Programacion\Programacion\suma\suma\obj\Debug\net6.0\Suma.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Programacion\Programacion\suma\suma\obj\Debug\net6.0\Suma.dll
+C:\Users\ACER\Documents\Programacion\Programacion\suma\suma\obj\Debug\net6.0\refint\Suma.dll
+C:\Users\ACER\Documents\Programacion\Programacion\suma\suma\obj\Debug\net6.0\Suma.pdb
+C:\Users\ACER\Documents\Programacion\Programacion\suma\suma\obj\Debug\net6.0\Suma.genruntimeconfig.cache
+C:\Users\ACER\Documents\Programacion\Programacion\suma\suma\obj\Debug\net6.0\ref\Suma.dll
